@@ -1,0 +1,19 @@
+.formInputWrapper{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.formInputWrapper input{
+    width: 90%;
+    height: 36px;
+    border: rgb(194, 194, 194) solid 1px;
+    border-radius: 3px;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+.formInputLabel{
+    text-align: left !important;
+    color: rgb(152, 152, 152);
+    font-size: 10pt;
+}
